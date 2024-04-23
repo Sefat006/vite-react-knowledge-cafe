@@ -1,0 +1,53 @@
+[
+    {
+      "id": 123456,
+      "cover": "https://i.postimg.cc/1z7wFGmR/1.jpg",
+      "title": "Top 10 Features of ES6 JS",
+      "author": "Emily Williams",
+      "author_img": "https://i.postimg.cc/wBbHdvVb/boy1.png",
+      "posted_date": "April 15, 2024",
+      "reading_time": 10,
+      "hashtags": ["fiction", "classics", "gardens"]
+    },
+    {
+      "id": 789012,
+      "cover": "https://i.postimg.cc/76Xc0QCG/2.png",
+      "title": "JS Object for Beginners",
+      "author": "Samuel Greene",
+      "author_img": "https://i.postimg.cc/9fz512hP/boy2.jpg",
+      "posted_date": "April 16, 2024",
+      "reading_time": 15,
+      "hashtags": ["adventure", "mystery", "journey"]
+    },
+    {
+      "id": 345678,
+      "cover": "https://i.postimg.cc/m2KnY9rw/3.png",
+      "title": "React JS",
+      "author": "Jessica Smith",
+      "author_img": "https://i.postimg.cc/nrbyHQQT/girl1.jpg",
+      "posted_date": "April 17, 2024",
+      "reading_time": 20,
+      "hashtags": ["fantasy", "magic", "epic"]
+    },
+    {
+      "id": 901234,
+      "cover": "https://i.postimg.cc/QMK1pBHp/4.jpg",
+      "title": "Free Resources for JS",
+      "author": "Michael Johnson",
+      "author_img": "https://i.postimg.cc/MZmPc4kz/girl2.jpg",
+      "posted_date": "April 18, 2024",
+      "reading_time": 12,
+      "hashtags": ["sciencefiction", "timetravel", "space"]
+    },
+    {
+      "id": 567890,
+      "cover": "https://i.ibb.co/HFgDQwD/flatlay-gadgets-black-background.jpg",
+      "title": "Whispers in the Wind",
+      "author": "Sarah Thompson",
+      "author_img": "",
+      "posted_date": "April 19, 2024",
+      "reading_time": 18,
+      "hashtags": ["romance", "love", "relationships"]
+    }
+  ]
+  
